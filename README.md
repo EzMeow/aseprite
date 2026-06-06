@@ -57,7 +57,9 @@ and contributors.
 Check the [AUTHORS](AUTHORS.md) file for details about the active team
 of developers working on Aseprite.
 
+
 ## License
+
 
 This program is distributed under three different licenses:
 
